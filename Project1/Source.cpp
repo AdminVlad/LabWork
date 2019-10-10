@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
 	SetConsoleCP(1251); //Для кирилиці
-	SetConsoleOutputCP(1251);
+	SetConsoleOutputCP(1251); //Для кирилиці
 
 	double b, x, y, z; //Оголошення невідомих 
 	printf("Введіть x: "); //Вивід тексту
